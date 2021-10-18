@@ -1,6 +1,6 @@
-title: LMPxxxx Basic principles of machine learning in biomedical research (Winter 2022)
-description: LMPxxxx course website
-sitename: LMPxxxx-uoft
+title: LMP1210 Basic principles of machine learning in biomedical research (Winter 2022)
+description: LMP1210 course website
+sitename: LMP1210-uoft
 baseurl: '2022'
 sass:
   sass_dir: /assets/_sass
