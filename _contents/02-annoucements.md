@@ -5,4 +5,4 @@ heading: Announcements
 subheading: Announcements&#58;
 image: ""
 ---
- - **Jan 17**: Homework 1 [handout](assets/assignments/HW01.pdf) is now online and is due Jan 28th.
+ - **Jan 06**: Winter term starts! 
