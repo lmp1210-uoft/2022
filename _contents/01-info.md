@@ -17,7 +17,7 @@ image: ""
 * Head TA: 
   * Adamo Young
 
-Contact emails:
+**Contact emails**:
 
 * Instructor: *bowang.wang@utoronto.ca*
 * Head TA: *adamo.young@mail.utoronto.ca*
