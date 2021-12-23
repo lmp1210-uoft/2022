@@ -5,4 +5,4 @@ heading: Announcements
 subheading: Announcements&#58;
 image: ""
 ---
- - **Jan 06**: Winter term starts! 
+ - **Jan 03**: Winter term starts! 
