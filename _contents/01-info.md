@@ -11,16 +11,14 @@ image: ""
 
 **Teaching staff:**  
 
-* Instructor and office hours: 
-  * [Bo Wang](https://wanglab.ml/),  Fri 10-11
+* Instructor: 
+  * [Bo Wang](https://wanglab.ml/)
+  * Office hours: Fri 10-11
+  * Email: *bowang.wang@utoronto.ca*
 
 * Head TA: 
   * Adamo Young
-
-**Contact emails**:
-
-* Instructor: *bowang.wang@utoronto.ca*
-* Head TA: *adamo.young@mail.utoronto.ca*
+  * Email: *adamo.young@mail.utoronto.ca*
 
 Please do not send the instructor or the TAs email about the class directly to their personal accounts.
 
