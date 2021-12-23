@@ -19,8 +19,8 @@ image: ""
 
 Contact emails:
 
-* Instructor: bowang.wang@utoronto.ca
-* TA: adamo.young@mail.utoronto.ca
+* Instructor: *bowang.wang@utoronto.ca*
+* Head TA: *adamo.young@mail.utoronto.ca*
 
 Please do not send the instructor or the TAs email about the class directly to their personal accounts.
 
