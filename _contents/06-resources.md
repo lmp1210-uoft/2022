@@ -10,6 +10,8 @@ image: ""
 |-----------|------------------------|---------
 |Related Textbooks| [Deep Learning (Goodfellow at al., 2016)](https://www.deeplearningbook.org/) | The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning.
 |-----------|------------------------|---------
+|| [Pattern Recognition and Machine Learning (Bishop, 2006)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | Classic introductory text on machine learning, less emphasis on deep learning approaches.
+|-----------|------------------------|---------
 || [Information Theory, Inference, and Learning Algorithms (MacKay, 2003)](http://www.inference.org.uk/mackay/itprnn/book.html) | A good introduction textbook that combines information theory and machine learning.
 |-----------|------------------------|---------
 |General Framework| [PyTorch](http://pytorch.org/) | An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
