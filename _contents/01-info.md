@@ -13,7 +13,8 @@ image: ""
 
 * Instructor: 
   * [Bo Wang](https://wanglab.ml/)
-  * Office hours: Fri 10-11
+  * Office hours: Fri 10-11 ([Zoom](https://vectorinstitute.zoom.us/j/94358623966?pwd=anRuS25kYVptRE5rWXNoVmVPT2d2Zz09
+), Meeting ID: 943 5862 3966, Password: lmp1210)
   * Email: *bowang.wang@utoronto.ca*
 
 * Head TA: 
@@ -25,16 +26,13 @@ Please do not send the instructor or the TAs email about the class directly to t
 **Piazza:** Students are encouraged to sign up [Piazza](http://piazza.com/utoronto.ca/winter2022/lmp1210h) to join course discussions.
 If your question is about the course material and doesn't give away any hints for the homework, please post to Piazza so that the entire class can benefit from the answer.
 
+**Online lectures and tutorials:** The access to online lectures and tutorials will be communicated via course mailing list. Course videos and materials belong to your instructor, the University, and/or other sources depending on the specific facts of each situation, and are protected by copyright. Do not download, copy, or share any course or student materials or videos without the explicit permission of the instructor and/or student(s). For questions about recording and use of videos in which you appear please contact your instructor.
 
 **Lecture and tutorial hours:**  
 
+
 |           | Time      | Location  |
 |-----------|--------------|--------------|
-| Lecture | Monday 10 am-12 pm  | Zoom      | 
-
-**Online lectures and tutorials:** The access to online lectures and tutorials will be communicated via course mailing list. Course videos and materials belong to your instructor, the University, and/or other sources depending on the specific facts of each situation, and are protected by copyright. Do not download, copy, or share any course or student materials or videos without the explicit permission of the instructor and/or student(s). For questions about recording and use of videos in which you appear please contact your instructor.
-
-<br/> 
-
+| Lecture | Monday 10 am-12 pm  | Zoom (see Quercus for details)    | 
 
 
