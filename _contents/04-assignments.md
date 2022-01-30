@@ -9,8 +9,8 @@ image: ""
 
 |           | Handout                | Due
 |-----------|------------------------|---------
-| **Assignment #1**   |  [Handout](assets/assignments/HW1.pdf), [Data](assets/assignments/HW1_data.csv)    | January 31 2022
-| **Assignment #2**   |      | February 14 2022
+| **Assignment #1**   |  [Handout](assets/assignments/A1.pdf), [Data](assets/assignments/A1_data.csv)    | January 31 2022
+| **Assignment #2**   |  [Handout](assets/assignment/A2.pdf)   | February 20 2022
 | **Assignment #3**   |      | March 21 2022
 | **Final Project**   |   [Handout](assets/assignments/Final_Project.pdf) |  April 10 2022
 
