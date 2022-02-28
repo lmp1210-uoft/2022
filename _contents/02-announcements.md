@@ -12,3 +12,4 @@ image: ""
  - **Jan 31**: Assignment 2 Updated, Due February 20
  - **Feb 4**: Assignment 1 Solutions Released
  - **Feb 24**: Assignment 1 Marks Released
+ - **Feb 28**: Assignment 3 Released
