@@ -26,8 +26,8 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;6** | Feb 14  | Unsupervised learning for clustering: K-means, Gaussian mixture models | [Slides](assets/slides/Lecture06.pdf)  | B: 9; RG: [Mixture Models](https://www.cs.toronto.edu/~rgrosse/courses/csc311_f21/readings/Mixture%20Modeling.pdf)  | Assignment #2 Due
 | **Reading Week** | Feb 21  |   |  |   |
 | **Lecture&nbsp;7** | Feb 28   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | [Slides](assets/slides/Lecture07.pdf), [Colab](https://colab.research.google.com/drive/1K8qoKMC-3uS9AfQJpOCXLvPwYSG1FT3d?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  |
-| **Lecture&nbsp;8** | Mar 07   | Case study I: single-cell analysis using unsupervised learning |    |   |
-| **Lecture&nbsp;9** | Mar 14  | Case study II: cell type classification using supervised learning  |  |   |
+| **Lecture&nbsp;8** | Mar 07   | Guest Lecturer: Dr. Joseph Cafazzo |    |   |
+| **Lecture&nbsp;9** | Mar 14  | Guest Lecturer: TBA |  |   |
 | **Lecture&nbsp;10** | Mar 21  | Advanced deep learning methods for medical image analysis |  |  | Assignment #3 Due
 | **Lecture&nbsp;11** | Mar 28  | Term project in-class presentation |   |   |
 | **Lecture&nbsp;12** | Apr 04   | Term project in-class presentation |   |   |

@@ -13,3 +13,4 @@ image: ""
  - **Feb 4**: Assignment 1 Solutions Released
  - **Feb 24**: Assignment 1 Marks Released
  - **Feb 28**: Assignment 3 Released
+ - **Mar 4**: Presentation Schedule Released
